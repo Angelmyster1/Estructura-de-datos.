@@ -1,0 +1,7 @@
+C:\Users\luisf\OneDrive\Documentos\Trabajos programacion\resta multiplicacion division\resta multiplicacion division\bin\Debug\resta multiplicacion division.exe.config
+C:\Users\luisf\OneDrive\Documentos\Trabajos programacion\resta multiplicacion division\resta multiplicacion division\bin\Debug\resta multiplicacion division.exe
+C:\Users\luisf\OneDrive\Documentos\Trabajos programacion\resta multiplicacion division\resta multiplicacion division\bin\Debug\resta multiplicacion division.pdb
+C:\Users\luisf\OneDrive\Documentos\Trabajos programacion\resta multiplicacion division\resta multiplicacion division\obj\Debug\resta multiplicacion division.csproj.AssemblyReference.cache
+C:\Users\luisf\OneDrive\Documentos\Trabajos programacion\resta multiplicacion division\resta multiplicacion division\obj\Debug\resta multiplicacion division.csproj.CoreCompileInputs.cache
+C:\Users\luisf\OneDrive\Documentos\Trabajos programacion\resta multiplicacion division\resta multiplicacion division\obj\Debug\resta multiplicacion division.exe
+C:\Users\luisf\OneDrive\Documentos\Trabajos programacion\resta multiplicacion division\resta multiplicacion division\obj\Debug\resta multiplicacion division.pdb
