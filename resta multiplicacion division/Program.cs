@@ -28,7 +28,7 @@ namespace resta_multiplicacion_division
                             respuesta = decimal.Parse(Console.ReadLine());
                             break;
                         case 2: operacion_multipliacion();
-                            Console.WriteLine("1 = Resta \n2 = Vaolver a intentar multiplicacion \n3= Division \n0 = Salir");
+                            Console.WriteLine("1 = Resta \n2 = Volver a intentar multiplicacion \n3= Division \n0 = Salir");
                             respuesta = decimal.Parse(Console.ReadLine());
                             break;
                         case 3: operacion_division();
@@ -81,8 +81,8 @@ namespace resta_multiplicacion_division
                     }
                     for (int i = 0; i < a1.Length && i < a2.Length; i++)
                     {
-                        decimal resta = a1[i] * a2[i];
-                        Console.WriteLine("{0} X {1} = {2}", a1[i], a2[i], resta);
+                        decimal multiplicacion = a1[i] * a2[i];
+                        Console.WriteLine("{0} X {1} = {2}", a1[i], a2[i], multiplicacion);
                     }
                 }
                 void operacion_division()
@@ -103,8 +103,8 @@ namespace resta_multiplicacion_division
                     }
                     for (int i = 0; i < a1.Length && i < a2.Length; i++)
                     {
-                        decimal resta = a1[i] / a2[i];
-                        Console.WriteLine("{0} / {1} = {2}", a1[i], a2[i], resta);
+                        decimal division = a1[i] / a2[i];
+                        Console.WriteLine("{0} / {1} = {2}", a1[i], a2[i], division);
                     }
                 }
             }
